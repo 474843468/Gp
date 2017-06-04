@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "D:\\develop\\GooglePlay10_AS\\ImageLoaderSample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 95,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "D:\\develop\\GooglePlay10_AS\\ImageLoaderSample\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 95,
+                        "endOffset": 147
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\develop\\px\\GooglePlay10_AS\\ImageLoaderSample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 95,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "D:\\develop\\px\\GooglePlay10_AS\\ImageLoaderSample\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 95,
+                        "endOffset": 147
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\as_project\\GooglePlay102\\ImageLoaderSample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 95,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "D:\\as_project\\GooglePlay102\\ImageLoaderSample\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 95,
+                        "endOffset": 147
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\src\\main\\res\\menu\\main_menu.xml"
+    }
+]

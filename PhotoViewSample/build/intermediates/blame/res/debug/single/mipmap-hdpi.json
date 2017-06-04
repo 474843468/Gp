@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

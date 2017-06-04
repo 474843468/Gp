@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\webSerser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\webSerser\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\webSerser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\develop\\GooglePlay10_AS\\webSerser\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\webSerser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\as_project\\GooglePlay102\\webSerser\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

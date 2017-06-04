@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GooglePlay10_AS.iml" filepath="$PROJECT_DIR$/GooglePlay10_AS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageLoaderLibrary/ImageLoaderLibrary.iml" filepath="$PROJECT_DIR$/ImageLoaderLibrary/ImageLoaderLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageLoaderSample/ImageLoaderSample.iml" filepath="$PROJECT_DIR$/ImageLoaderSample/ImageLoaderSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoViewLibrary/PhotoViewLibrary.iml" filepath="$PROJECT_DIR$/PhotoViewLibrary/PhotoViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoViewSample/PhotoViewSample.iml" filepath="$PROJECT_DIR$/PhotoViewSample/PhotoViewSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshLibrary/pullToRefreshLibrary.iml" filepath="$PROJECT_DIR$/pullToRefreshLibrary/pullToRefreshLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testactionbar/testactionbar.iml" filepath="$PROJECT_DIR$/testactionbar/testactionbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmeasure/testmeasure.iml" filepath="$PROJECT_DIR$/testmeasure/testmeasure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webSerser/webSerser.iml" filepath="$PROJECT_DIR$/webSerser/webSerser.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\as_project\\GooglePlay102\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\develop\\GooglePlay10_AS\\PhotoViewSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

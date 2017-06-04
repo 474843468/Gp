@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\pullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\as_project\\GooglePlay102\\pullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\pullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\develop\\GooglePlay10_AS\\pullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\pullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\pullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\pullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\develop\\GooglePlay10_AS\\pullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\pullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\as_project\\GooglePlay102\\pullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\pullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\pullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    }
+]

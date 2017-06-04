@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_empty.png",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_empty.png"
+    },
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_empty.png",
+        "source": "D:\\as_project\\GooglePlay102\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_empty.png"
+    },
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_stub.png",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_stub.png"
+    },
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_error.png",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_error.png"
+    },
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_stub.png",
+        "source": "D:\\as_project\\GooglePlay102\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_stub.png"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_error.png",
+        "source": "D:\\develop\\GooglePlay10_AS\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_error.png"
+    },
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\as_project\\GooglePlay102\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\develop\\px\\GooglePlay10_AS\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\develop\\px\\GooglePlay10_AS\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_empty.png",
+        "source": "D:\\develop\\GooglePlay10_AS\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_empty.png"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_stub.png",
+        "source": "D:\\develop\\GooglePlay10_AS\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_stub.png"
+    },
+    {
+        "merged": "D:\\develop\\GooglePlay10_AS\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\develop\\GooglePlay10_AS\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\as_project\\GooglePlay102\\ImageLoaderSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_error.png",
+        "source": "D:\\as_project\\GooglePlay102\\ImageLoaderSample\\src\\main\\res\\drawable-mdpi\\ic_error.png"
+    }
+]
